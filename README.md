@@ -6,6 +6,7 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![License][license-image]][license-url]
 [![Prettier][prettier-image]][prettier-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fericcornelissen%2Fgulp-gitstage.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fericcornelissen%2Fgulp-gitstage?ref=badge_shield)
 
 > plugin for [gulp](https://github.com/gulpjs/gulp) to stage files with git
 
@@ -98,3 +99,7 @@ Read more in the <a href="\CONTRIBUTING.md">Contributing Guidelines</a> and <a h
 [license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
 [prettier-url]: https://prettier.io/
 [prettier-image]: https://img.shields.io/badge/styled_with-prettier-ff69b4.svg
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fericcornelissen%2Fgulp-gitstage.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fericcornelissen%2Fgulp-gitstage?ref=badge_large)
